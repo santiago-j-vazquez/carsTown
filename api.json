@@ -1,0 +1,38 @@
+[
+    {
+        "precio": 469943,
+        "id": 1,
+        "title": "Lamborghini Aventador SVJ Roadster",
+        "img": "https://www.latercera.com/resizer/CGcH0c06xhx4adDHoGMbfCuMe6g=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/CYYO2X2G6FAQLPPT32EYSMT2XM.jpg"
+    },
+    {
+        "precio": 507300,
+        "id": 2,
+        "title": "Ferrari SF90",
+        "img": "https://www.ccarprice.com/products/Ferrari-SF90-Stradale-2020.jpg"
+    },
+    {
+        "precio": 161100,
+        "id": 3,
+        "title": "Porsche 911 gt3",
+        "img": "https://cloud.leparking.fr/2021/10/06/02/17/porsche-911-992-porsche-911-4-0-992-gt3-2dr_8293278160.jpg"
+    },
+    {
+        "precio": 250000,
+        "id": 4,
+        "title": "Tesla Roadster",
+        "img": "https://i.pinimg.com/736x/e3/c0/3a/e3c03a832cb7a8f88d952c0df9a7f8f2.jpg"
+    },
+    {
+        "precio": 3500000,
+        "id": 5,
+        "title": "Pagani Huayra R",
+        "img": "https://www.ccarprice.com/products/Pagani_Huayra_R_2022.jpg"
+    },
+    {
+        "precio": 3825000,
+        "id": 6,
+        "title": "Buggati Chiron",
+        "img": "https://1.bp.blogspot.com/-ZfF7Cu_Hyxc/YVDGCBlPWJI/AAAAAAAAnIY/SQu6GscSVIkoCihCORPYQlRaj7t7zDvwACLcBGAsYHQ/s16000/Bugatti-Chiron-Pur-Sport.jpg"
+    }
+]
